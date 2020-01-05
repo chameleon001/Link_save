@@ -20,8 +20,9 @@
 
 2. ML,DL
 
-   1. [Ensembling ConvNets using Keras](https://towardsdatascience.com/ensembling-convnets-using-keras-237d429157eb)
-   2. [DL 판매 수익 예측 모델](https://m.blog.naver.com/PostView.nhn?blogId=dnjswns2280&logNo=221736768063&navType=tl)
+   1. [딥러닝 논문 로드맵겸 소개](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+   2. [Ensembling ConvNets using Keras](https://towardsdatascience.com/ensembling-convnets-using-keras-237d429157eb)
+   3. [DL 판매 수익 예측 모델](https://m.blog.naver.com/PostView.nhn?blogId=dnjswns2280&logNo=221736768063&navType=tl)
 
 3. Image Processing
 
