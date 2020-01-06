@@ -42,3 +42,9 @@
 6. 유틸
 
    1.  [프로그래머가 모르면 손해인 범용적인 툴 100선](https://tkdwnsdkk.tistory.com/101) (샤우의 블로그) 
+   2.  [Everything 세팅법](https://jimnong.tistory.com/710)
+
+7. 읽어보면 좋은글.
+
+   1. [좋은 스타트업 찾기 ](https://brunch.co.kr/@nashorn74/44)
+
