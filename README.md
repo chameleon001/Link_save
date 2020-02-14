@@ -57,8 +57,8 @@
 9. 읽어보면 좋은글. 
 
    1. [2019 유명한 컨퍼런스들](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences#%EB%8D%B0%EB%B7%B0-2019deview)
-   1. [좋은 스타트업 찾기 ](https://brunch.co.kr/@nashorn74/44)
-   2. [algorithm](https://baactree.tistory.com/52)
+   2. [좋은 스타트업 찾기 ](https://brunch.co.kr/@nashorn74/44)
+   3. [algorithm](https://baactree.tistory.com/52)
 10. 기타
     1. [크롤러](https://baek.dev/post/17/)
     2. 
