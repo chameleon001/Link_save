@@ -42,6 +42,7 @@
    6. [CUBE SLAM](https://www.youtube.com/watch?v=QnVlexXi9_c)
    7. [CNN_SLAM 논문](https://arxiv.org/abs/1704.03489)
    8. [드론 슬램](https://m.youtube.com/watch?v=quqF5_ZE_fI&index=15&list=PL3Aa4PwAWy-c1ZvKifKwIzAUqjzD7T1C5)
+   9. [Visual path planning - github](https://github.com/AtsushiSakai/PythonRobotics)
 6. Web
    1. [의존성 주입](https://blog.naver.com/brew0/221509421227)
    2. [DOM에 대해 기술하라](https://blog.naver.com/eirene100999/221650953283)
