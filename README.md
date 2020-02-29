@@ -50,8 +50,6 @@
    2. [DOM에 대해 기술하라](https://blog.naver.com/eirene100999/221650953283)
    3. 
 7. notion page
-
-   1. 
 8. 유틸
 
    1.  [프로그래머가 모르면 손해인 범용적인 툴 100선](https://tkdwnsdkk.tistory.com/101) (샤우의 블로그) 
